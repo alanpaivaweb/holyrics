@@ -5,7 +5,7 @@
   border: 5px solid gold;
   border-radius: 30px;
   color: #fff;
-  background: linear-gradient(to right, #003366 0%, #0066cc 100%);
+  background: linear-gradient(to bottom right, #000020 20%, #0066cc 100%);
 }
 
 .text_slide{
@@ -15,5 +15,5 @@
   border: 5px solid gold;
   border-radius: 30px;
   color: #fff;
-  background: linear-gradient(to right, #003366 0%, #0066cc 100%);
+  background: linear-gradient(to bottom right, #000020 20%, #0066cc 100%);
 }
