@@ -1,0 +1,19 @@
+.music_slide {
+  display: block;
+  padding: 30px;
+  #height: 150px;
+  border: 5px solid gold;
+  border-radius: 30px;
+  color: #fff;
+  background: linear-gradient(to right, #003366 0%, #0066cc 100%);
+}
+
+.text_slide{
+  display: block;
+  padding: 30px;
+  #height: 150px;
+  border: 5px solid gold;
+  border-radius: 30px;
+  color: #fff;
+  background: linear-gradient(to right, #003366 0%, #0066cc 100%);
+}
